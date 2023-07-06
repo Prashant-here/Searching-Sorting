@@ -50,7 +50,7 @@ int main()
 
 
 
-// Optimized Approach                 TC O(N)      SC O(1) 
+// Optimized Approach                 TC O(N)      SC O(1)     also known as Moore's Voting Algorithm 
 
 // C++ Program for finding out
 // majority element in an array
