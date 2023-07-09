@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>         // TC O(n*m) SC O(1)   
 
 using namespace std;
 bool isCompatible(vector < int > inp, int dist, int cows) {
